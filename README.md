@@ -10,3 +10,6 @@
 * [Deploying a Web Server in Azure](https://github.com/manuel284/udacity-azure-devops-deploy-webserver)
 * [Building a CI/CD Pipeline](https://github.com/manuel284/udacity-azure-devops-cicd)
 * [Ensuring Quality Releases (Quality Assurance)](https://github.com/manuel284/udacity-azure-devops-qa)
+
+## Cloud Native Application Architecture
+* [TechTrends](https://github.com/manuel284/udacity-cloud-native-techtrends)
