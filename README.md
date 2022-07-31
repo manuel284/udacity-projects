@@ -9,7 +9,7 @@
 ## Cloud DevOps using Microsoft Azure Nanodegree Program
 * [Deploying a Web Server in Azure](https://github.com/manuel284/udacity-azure-devops-deploy-webserver)
 * [Building a CI/CD Pipeline](https://github.com/manuel284/udacity-azure-devops-cicd)
-* [Ensuring Quality Releases](Quality Assurance)](https://github.com/manuel284/udacity-azure-devops-qa)
+* [Ensuring Quality Releases (Quality Assurance)](https://github.com/manuel284/udacity-azure-devops-qa)
 
 ## Cloud Architect using Microsoft Azure Nanodegree Program
 * [Moving from On-Prem to the Azure Cloud](https://github.com/manuel284/udacity-azure-architect-onprem-to-cloud)
